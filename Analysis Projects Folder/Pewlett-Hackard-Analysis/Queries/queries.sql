@@ -112,3 +112,13 @@ INNER JOIN dept_emp AS de
 ON (ce.emp_no = de.emp_no)
 INNER JOIN departments AS d
 ON (de.dept_no = d.dept_no);
+
+-- Sales retirement info
+SELECT * 
+FROM dept_info as de
+WHERE de.dept_name = 'Sales';
+
+-- Sales & development retirement info
+SELECT * 
+FROM dept_info as de
+WHERE de.dept_name IN ('Sales', 'Development');

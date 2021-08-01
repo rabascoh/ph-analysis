@@ -5,14 +5,23 @@ The purpose of this project is to perform an analysis on the employees at 'Pewle
 
 ## Results
 The employee analysis determined the following: 
+### Total Retiring Employees
 - There are 41,380 employees who are likely to retire based on the company's criteria. 
-- Of those 41,380 employees, the highest number of employees are in Development (9,281), followed by Production (8,174) department. Finance has the fewest number of employees of retirement age (1,908). 
+[*See a list of the employees here*](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/retirement_info.csv)
 
-![Table](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/retiring_by_dept.png)
+### Retiring Employees by Title
 - The title with the highest number of employees likely to retire is Senior Engineer (29,414), followed by Senior Staff (28,254). Manager is the least likely with only 2 employees with this title.  
 
 ![Table](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/retiring_by_title.png)
-- There are 1,549 employees who are eligible for mentorship based on the company's criteria.  
+
+### Retiring Employees by Department
+- Of those 41,380 employees, the highest number of employees are in Development (9,281), followed by Production (8,174) department. Finance has the fewest number of employees of retirement age (1,908). 
+
+![Table](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/retiring_by_dept.png)
+
+### Mentorship Eligible Employees
+- There are 1,549 employees who are eligible for mentorship based on the company's criteria. 
+[*See a list of the employees here*](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/mentorship_eligibility.csv)
 
 [*See queries here*](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Queries/Employee_Database_challenge.sql)
 
@@ -22,11 +31,11 @@ Based on the analysis, 41,380 employees are likely to retire overall with 29,414
 In order to further prepare for departures due to retirement, we have provided further insight on those eligible for mentorship including mentorship eligible employees by department and title. Based on these insights, we recommend focusing on the Development and Production departments as well as Engineering and Staff roles. Although these departments and titles have the highest number of employees likely to retire, they also have the highest number of employees that are eligible for mentorship. See additional details regarding mentorship eligibility by department and role below. 
 
 ### Additional Insights
-- Employees eligible for mentorship by department
+#### Mentorship Eligibility by Department
 
 ![Table](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/mentorship_eligibility_by_dept.png)
 
-- Employees eligible for mentorship by title
+#### Mentorship Eligibility by Title
 
 ![Table](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/mentorship_eligibility_by_title.png)
 

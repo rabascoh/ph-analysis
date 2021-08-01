@@ -8,10 +8,10 @@ The employee analysis determined the following:
 - There are 41,380 employees who are likely to retire based on the company's criteria. 
 - Of those 41,380 employees, the highest number of employees are in Development (9,281), followed by Production (8,174) department. Finance has the fewest number of employees of retirement age (1,908). 
 
-![Table](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/retiring_by_title.png)
+![Table](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/retiring_by_dept.png)
 - The title with the highest number of employees likely to retire is Senior Engineer (29,414), followed by Senior Staff (28,254). Manager is the least likely with only 2 employees with this title.  
 
-![Table](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/retiring_by_dept.png)
+![Table](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/retiring_by_title.png)
 - There are 1,549 employees who are eligible for mentorship based on the company's criteria.  
 
 [*See queries here*](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Queries/Employee_Database_challenge.sql)

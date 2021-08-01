@@ -7,6 +7,7 @@ The purpose of this project is to perform an analysis on the employees at 'Pewle
 The employee analysis determined the following: 
 ### Total Retiring Employees
 - There are 41,380 employees who are likely to retire based on the company's criteria. 
+
 [*See a list of the employees here*](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/retirement_info.csv)
 
 ### Retiring Employees by Title
@@ -15,12 +16,13 @@ The employee analysis determined the following:
 ![Table](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/retiring_by_title.png)
 
 ### Retiring Employees by Department
-- Of those 41,380 employees, the highest number of employees are in Development (9,281), followed by Production (8,174) department. Finance has the fewest number of employees of retirement age (1,908). 
+- Of those 41,380 employees, the highest number of employees are in Development (9,281), followed by Production (8,174). Finance has the fewest number of employees of retirement age (1,908). 
 
 ![Table](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/retiring_by_dept.png)
 
 ### Mentorship Eligible Employees
 - There are 1,549 employees who are eligible for mentorship based on the company's criteria. 
+
 [*See a list of the employees here*](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/mentorship_eligibility.csv)
 
 [*See queries here*](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Queries/Employee_Database_challenge.sql)

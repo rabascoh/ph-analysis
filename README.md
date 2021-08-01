@@ -25,8 +25,6 @@ The employee analysis determined the following:
 
 [*See a list of the employees here*](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Data/mentorship_eligibility.csv)
 
-[*See queries here*](https://github.com/rabascoh/ph-analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Queries/Employee_Database_challenge.sql)
-
 ## Summary
 Based on the analysis, 41,380 employees are likely to retire overall with 29,414 Senior Engineers, 28,254 Senior Staff, 14,222 Engineers, 12,243 Staff, 4,502 Technique Leaders, 1,761 Assistant Engineers and 2 Managers. Based on the company's criteria, only 1,549 employees are eligible to participate in a mentorship program. We recommend expanding the criteria to qualify for the mentorship program to better prepare the company for when the employees reach retirement age. 
 
